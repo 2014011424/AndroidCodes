@@ -1,0 +1,4 @@
+#Wed Sep 13 13:38:50 CST 2017
+base.0=E\:\\androidproject\\Exercise\\testservice\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=E\:\\androidproject\\Exercise\\testservice\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

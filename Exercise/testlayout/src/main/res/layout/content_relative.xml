@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User Id:"
+        android:id="@+id/textViewUserId"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextUserId"
+        android:hint="User Id"
+        android:layout_alignTop="@+id/textViewUserId"
+        android:layout_toEndOf="@+id/textViewUserId" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password:"
+        android:id="@+id/textViewPwd"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_below="@+id/textViewUserId"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextPwd"
+        android:layout_alignTop="@+id/textViewPwd"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:layout_toEndOf="@+id/textViewPwd" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ok"
+        android:id="@+id/buttonOk"
+        android:layout_below="@+id/editTextPwd"
+        android:layout_toStartOf="@+id/buttonCancel" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:id="@+id/buttonCancel"
+        android:layout_alignTop="@+id/buttonOk"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

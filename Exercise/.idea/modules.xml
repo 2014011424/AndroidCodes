@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise.iml" filepath="$PROJECT_DIR$/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testactionbar/testactionbar.iml" filepath="$PROJECT_DIR$/testactionbar/testactionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testactivity/testactivity.iml" filepath="$PROJECT_DIR$/testactivity/testactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbroadcast/testbroadcast.iml" filepath="$PROJECT_DIR$/testbroadcast/testbroadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbroadcastreceiver/testbroadcastreceiver.iml" filepath="$PROJECT_DIR$/testbroadcastreceiver/testbroadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcomponent/testcomponent.iml" filepath="$PROJECT_DIR$/testcomponent/testcomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcontentobserver/testcontentobserver.iml" filepath="$PROJECT_DIR$/testcontentobserver/testcontentobserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcontentprovider/testcontentprovider.iml" filepath="$PROJECT_DIR$/testcontentprovider/testcontentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdialog/testdialog.iml" filepath="$PROJECT_DIR$/testdialog/testdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testfile/testfile.iml" filepath="$PROJECT_DIR$/testfile/testfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testfilesd/testfilesd.iml" filepath="$PROJECT_DIR$/testfilesd/testfilesd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testfragment/testfragment.iml" filepath="$PROJECT_DIR$/testfragment/testfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testintent/testintent.iml" filepath="$PROJECT_DIR$/testintent/testintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testintentservice/testintentservice.iml" filepath="$PROJECT_DIR$/testintentservice/testintentservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlayout/testlayout.iml" filepath="$PROJECT_DIR$/testlayout/testlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlifecycle/testlifecycle.iml" filepath="$PROJECT_DIR$/testlifecycle/testlifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlistview/testlistview.iml" filepath="$PROJECT_DIR$/testlistview/testlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlistviewdeeply/testlistviewdeeply.iml" filepath="$PROJECT_DIR$/testlistviewdeeply/testlistviewdeeply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmediaplayer/testmediaplayer.iml" filepath="$PROJECT_DIR$/testmediaplayer/testmediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmenu/testmenu.iml" filepath="$PROJECT_DIR$/testmenu/testmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testnoanswer/testnoanswer.iml" filepath="$PROJECT_DIR$/testnoanswer/testnoanswer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testpulllistview/testpulllistview.iml" filepath="$PROJECT_DIR$/testpulllistview/testpulllistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservice/testservice.iml" filepath="$PROJECT_DIR$/testservice/testservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsharedpreference/testsharedpreference.iml" filepath="$PROJECT_DIR$/testsharedpreference/testsharedpreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsqlite/testsqlite.iml" filepath="$PROJECT_DIR$/testsqlite/testsqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testthread/testthread.iml" filepath="$PROJECT_DIR$/testthread/testthread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testview/testview.iml" filepath="$PROJECT_DIR$/testview/testview.iml" />
+    </modules>
+  </component>
+</project>

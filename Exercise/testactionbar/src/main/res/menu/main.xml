@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.lidafei.exercise.MainActivity">
+
+    <item android:id="@+id/action_settings" android:title="settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_hello"
+        android:title="Hello World"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:title="myedit"
+        android:id="@+id/myedit"
+        app:showAsAction="always"
+        android:actionViewClass="android.widget.EditText"/>
+
+    <item
+        android:title="btn"
+        android:id="@+id/btn"
+        app:showAsAction="always"
+        android:actionLayout="@layout/barmenu"/>
+
+</menu>

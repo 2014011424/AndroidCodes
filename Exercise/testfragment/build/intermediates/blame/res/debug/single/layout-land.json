@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\androidproject\\Exercise\\testfragment\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_item.xml",
+        "source": "E:\\androidproject\\Exercise\\testfragment\\src\\main\\res\\layout-land\\fragment_item.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testfragment\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_item_list.xml",
+        "source": "E:\\androidproject\\Exercise\\testfragment\\src\\main\\res\\layout-land\\fragment_item_list.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testfragment\\build\\intermediates\\res\\merged\\debug\\layout-land\\content_main.xml",
+        "source": "E:\\androidproject\\Exercise\\testfragment\\src\\main\\res\\layout-land\\content_main.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testfragment\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_detail.xml",
+        "source": "E:\\androidproject\\Exercise\\testfragment\\src\\main\\res\\layout-land\\fragment_detail.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testfragment\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "E:\\androidproject\\Exercise\\testfragment\\src\\main\\res\\layout-land\\activity_main.xml"
+    }
+]

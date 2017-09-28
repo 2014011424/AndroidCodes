@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidproject\\Exercise\\testmediaplayer\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\androidproject\\Exercise\\testmediaplayer\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testmediaplayer\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\androidproject\\Exercise\\testmediaplayer\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidproject\\Exercise\\testsqlite\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\androidproject\\Exercise\\testsqlite\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testsqlite\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\androidproject\\Exercise\\testsqlite\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

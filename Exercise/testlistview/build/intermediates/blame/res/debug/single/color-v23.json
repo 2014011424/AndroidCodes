@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testlistview\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\AVD\\avd\\.android\\build-cache\\d7f8e1cd8b086868b6b8bcf8207d694d76e4fef1\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    }
+]

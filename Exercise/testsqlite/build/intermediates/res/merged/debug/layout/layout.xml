@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="id"
+        android:background="@color/colorAccent"
+        android:id="@+id/tv1"
+        android:textSize="20sp"
+        android:width="100px"/>
+    <View
+        android:layout_height="match_parent"
+        android:layout_width="2dip"
+        android:background="@color/colorGrey"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="word"
+        android:background="@color/colorPrimary"
+        android:id="@+id/tv2"
+        android:textSize="20sp"
+        android:width="300px"/>
+    <View
+        android:layout_height="match_parent"
+        android:layout_width="2dip"
+        android:background="@color/colorGrey"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="meaning"
+        android:background="@color/colorAccent"
+        android:id="@+id/tv3"
+        android:textSize="20sp"
+        android:width="400px"/>
+    <View
+        android:layout_height="match_parent"
+        android:layout_width="2dip"
+        android:background="@color/colorGrey"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="sample"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:ellipsize="marquee"
+        android:scrollHorizontally="true"
+        android:focusableInTouchMode="true"
+        android:focusable="true"
+        android:singleLine="true"
+        android:background="@color/colorPrimary"
+        android:id="@+id/tv4"
+        android:textSize="20sp" />
+</LinearLayout>

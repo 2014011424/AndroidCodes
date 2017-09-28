@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestView</string>
+    <string name="button_ok">登录</string>
+    <string name="button_cancel">注册</string>
+</resources>

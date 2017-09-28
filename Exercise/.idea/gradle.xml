@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/helloworld" />
+            <option value="$PROJECT_DIR$/testactionbar" />
+            <option value="$PROJECT_DIR$/testactivity" />
+            <option value="$PROJECT_DIR$/testbroadcast" />
+            <option value="$PROJECT_DIR$/testbroadcastreceiver" />
+            <option value="$PROJECT_DIR$/testcomponent" />
+            <option value="$PROJECT_DIR$/testcontentobserver" />
+            <option value="$PROJECT_DIR$/testcontentprovider" />
+            <option value="$PROJECT_DIR$/testdialog" />
+            <option value="$PROJECT_DIR$/testfile" />
+            <option value="$PROJECT_DIR$/testfilesd" />
+            <option value="$PROJECT_DIR$/testfragment" />
+            <option value="$PROJECT_DIR$/testintent" />
+            <option value="$PROJECT_DIR$/testintentservice" />
+            <option value="$PROJECT_DIR$/testlayout" />
+            <option value="$PROJECT_DIR$/testlifecycle" />
+            <option value="$PROJECT_DIR$/testlistview" />
+            <option value="$PROJECT_DIR$/testlistviewdeeply" />
+            <option value="$PROJECT_DIR$/testmediaplayer" />
+            <option value="$PROJECT_DIR$/testmenu" />
+            <option value="$PROJECT_DIR$/testnoanswer" />
+            <option value="$PROJECT_DIR$/testpulllistview" />
+            <option value="$PROJECT_DIR$/testservice" />
+            <option value="$PROJECT_DIR$/testsharedpreference" />
+            <option value="$PROJECT_DIR$/testsqlite" />
+            <option value="$PROJECT_DIR$/testthread" />
+            <option value="$PROJECT_DIR$/testview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

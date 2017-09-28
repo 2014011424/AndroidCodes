@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textViewOp"
+        android:text="请选择学习过的语言："
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_C"
+        android:text="C"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:onClick="onCheckboxClicked"
+        android:layout_below="@id/textViewOp"
+        android:layout_marginTop="30dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_java"
+        android:text="java"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:onClick="onCheckboxClicked"
+        android:layout_below="@id/textViewOp"
+        android:layout_toRightOf="@id/checkbox_C"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_Python"
+        android:text="Python"
+        android:textSize="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:onClick="onCheckboxClicked"
+        android:layout_below="@id/textViewOp"
+        android:layout_toRightOf="@id/checkbox_java"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:id="@+id/textViewSex"
+        android:text="请选择您的性别："
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/checkbox_C"
+        android:layout_marginTop="20dp"/>
+
+    <RadioGroup
+        android:id="@+id/RadioGroupSex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/textViewSex"
+        android:layout_marginTop="30dp">
+        <RadioButton
+            android:text="男"
+            android:id="@+id/RadioButtonMale"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:textSize="20dp"/>
+        <RadioButton
+            android:text="女"
+            android:id="@+id/RadioButtonFeMale"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:textSize="20dp"/>
+        <RadioButton
+            android:text="未知"
+            android:id="@+id/RadioButtonNone"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:onClick="onRadioButtonClicked"
+            android:textSize="20dp"/>
+    </RadioGroup>
+
+    <TextView
+        android:text="WIFI设置"
+        android:id="@+id/textViewWiFi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_below="@id/RadioGroupSex"
+        android:layout_marginTop="20dp"/>
+    <ToggleButton
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/toggleButton"
+        android:layout_below="@id/RadioGroupSex"
+        android:layout_toRightOf="@id/textViewWiFi"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="50dp"/>
+
+</RelativeLayout>

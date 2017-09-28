@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androidproject\\Exercise\\testmenu\\build\\intermediates\\res\\merged\\debug\\menu\\menu_content.xml",
+        "source": "E:\\androidproject\\Exercise\\testmenu\\src\\main\\res\\menu\\menu_content.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testmenu\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\androidproject\\Exercise\\testmenu\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\androidproject\\Exercise\\testmenu\\build\\intermediates\\res\\merged\\debug\\menu\\menu_pop.xml",
+        "source": "E:\\androidproject\\Exercise\\testmenu\\src\\main\\res\\menu\\menu_pop.xml"
+    }
+]
